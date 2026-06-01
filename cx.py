@@ -201,9 +201,9 @@ class AutoSign(object):
 		params = {
 			'name': '',
 			'activeId': activeId,
-			'address': '中国',
+			'address': '南宁',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '223.160.223.62',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
